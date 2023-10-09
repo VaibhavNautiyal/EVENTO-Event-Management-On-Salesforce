@@ -1,35 +1,4 @@
-# EVENTO - Event Management System on Salesforce
 
-![EVENTO Screenshot](screenshot.png)
-
-EVENTO is a comprehensive Event Management System built on the Salesforce platform. It offers a range of features to help you efficiently plan, organize, and manage events of all sizes. Whether you are hosting conferences, seminars, webinars, or social gatherings, EVENTO has got you covered.
-
-## Features
-
-- **Event Creation:** Easily create and configure events with details such as name, date, location, and description.
-
-- **Registration:** Allow attendees to register for events through a user-friendly interface.
-
-- **Attendee Management:** Manage attendee lists, track registrations, and view attendee details.
-
-- **Schedule Management:** Create event schedules, sessions, and speakers.
-
-- **Communication:** Send automated event reminders and updates to registered attendees.
-
-- **Reporting:** Generate insightful reports on event attendance, feedback, and more.
-
-## Getting Started
-
-To get started with EVENTO, follow these steps:
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/EVENTO.git
-
-Creating a README.md file for your GitHub project is a great way to provide information about your Event Management System called "EVENTO." You can include details about the project, how to use it, and any relevant screenshots. Below is a template for your README.md file:
-
-markdown
-Copy code
 # EVENTO - Event Management System on Salesforce
 
 ![EVENTO Screenshot](screenshot.png)
