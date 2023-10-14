@@ -1,7 +1,7 @@
 
 # EVENTO - Event Management System on Salesforce
 
-![EVENTO Screenshot](/Screenshot/Screenshot (348).png)
+![EVENTO Screenshot](/Screenshot/Screenshot(348).png)
 
 EVENTO is a comprehensive Event Management System built on the Salesforce platform. It offers a range of features to help you efficiently plan, organize, and manage events of all sizes. Whether you are hosting conferences, seminars, webinars, or social gatherings, EVENTO has got you covered.
 
