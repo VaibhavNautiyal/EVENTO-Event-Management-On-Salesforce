@@ -1,14 +1,4 @@
-/**
- * @File Name          : attendeeEvents.js
- * @Description        :
- * @Author             : A Singh
- * @Group              :
- * @Last Modified By   : A Singh
- * @Last Modified On   : 6/9/2020, 9:07:15 PM
- * @Modification Log   :
- * Ver       Date            Author      		    Modification
- * 1.0    6/9/2020   A Singh     Initial Version
- **/
+
 import { LightningElement, api, track } from "lwc";
 import upcomingEvets from "@salesforce/apex/AttendeeEventsService.upcomingEvets";
 import pastEvents from "@salesforce/apex/AttendeeEventsService.pastEvents";
