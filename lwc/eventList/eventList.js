@@ -1,16 +1,3 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-restricted-globals */
-/**
- * @File Name          : eventList.js
- * @Description        :
- * @Author             : A Singh
- * @Group              :
- * @Last Modified By   : A Singh
- * @Last Modified On   : 6/14/2020, 7:05:56 PM
- * @Modification Log   :
- * Ver       Date            Author      		    Modification
- * 1.0    6/8/2020   A Singh     Initial Version
- **/
 import { LightningElement, track } from "lwc";
 import upcomingEvents from "@salesforce/apex/EventDetailsService.upcomingEvents";
 const columns = [
