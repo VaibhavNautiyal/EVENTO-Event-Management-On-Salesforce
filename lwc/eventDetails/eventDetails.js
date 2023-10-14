@@ -1,14 +1,5 @@
-/**
- * @File Name          : eventDetails.js
- * @Description        :
- * @Author             : A Singh
- * @Group              :
- * @Last Modified By   : A Singh
- * @Last Modified On   : 6/14/2020, 10:30:30 PM
- * @Modification Log   :
- * Ver       Date            Author      		    Modification
- * 1.0    6/7/2020   A Singh     Initial Version
- **/
+
+ 
 import { LightningElement, api, track, wire } from "lwc";
 import getSpeakers from "@salesforce/apex/EventDetailsController.getSpeakers";
 import getLocationDetails from "@salesforce/apex/EventDetailsController.getLocationDetails";
