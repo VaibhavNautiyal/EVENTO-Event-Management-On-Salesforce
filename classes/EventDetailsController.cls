@@ -1,14 +1,4 @@
-/**
- * @File Name          : EventDetailsController.cls
- * @Description        :
- * @Author             : A Singh
- * @Group              :
- * @Last Modified By   : A Singh
- * @Last Modified On   : 6/13/2020, 6:28:41 PM
- * @Modification Log   :
- * Ver       Date            Author      		    Modification
- * 1.0    6/7/2020   A Singh     Initial Version
- **/
+
 public with sharing class EventDetailsController {
   @AuraEnabled
   public static List<EventSpeakers__c> getSpeakers(String eventId) {
