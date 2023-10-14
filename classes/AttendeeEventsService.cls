@@ -1,14 +1,4 @@
-/**
- * @File Name          : AttendeeEventsService.cls
- * @Description        :
- * @Author             : A Singh
- * @Group              :
- * @Last Modified By   : A Singh
- * @Last Modified On   : 6/9/2020, 9:01:38 PM
- * @Modification Log   :
- * Ver       Date            Author      		    Modification
- * 1.0    6/9/2020   A Singh     Initial Version
- **/
+
 public with sharing class AttendeeEventsService {
   @AuraEnabled
   public static List<Event_Attendee__c> upcomingEvets(String attendeeId) {
