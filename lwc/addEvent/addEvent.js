@@ -1,14 +1,4 @@
-/**
- * @File Name          : addEvent.js
- * @Description        : 
- * @Author             : A Singh
- * @Group              : 
- * @Last Modified By   : A Singh
- * @Last Modified On   : 6/7/2020, 7:27:25 PM
- * @Modification Log   : 
- * Ver       Date            Author      		    Modification
- * 1.0    6/7/2020   A Singh     Initial Version
-**/
+
 import { LightningElement, track } from 'lwc';
 import { createRecord } from 'lightning/uiRecordApi';
 import EVT_OBJECT from '@salesforce/schema/Event__c';
